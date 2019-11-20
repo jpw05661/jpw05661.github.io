@@ -8,6 +8,6 @@
 	</style>
 </head>
 <body>
-	<p> </p>
+	<p> This is a webpage about me! </p>
 </body>
 </html>
